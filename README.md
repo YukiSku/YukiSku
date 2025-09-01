@@ -1,5 +1,3 @@
-
-
 <!--
 **YukiSku/YukiSku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p>Pharmacist, System Engineer, Pharmacy Lecturer at Japan.</p>
+<p>自薬局システムとかのコードは非公開のためあまり見て面白い/役に立つものは少ないかも。公開できるものは公開していきます。</p>
+<p>いまだ使い方よくわからん...。</p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YukiSku&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YukiSku&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YukiSku&theme=transparent&exclude=none)
+
 
 <p align="left">
   <a href="http://qiita.com/yukisku">
