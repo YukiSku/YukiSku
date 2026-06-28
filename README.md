@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 -->
 
 <p>Pharmacist, System Engineer, Pharmacy Lecturer at Japan.</p>
-<p>自薬局システムとかのコードは非公開のためあまり見て面白い/役に立つものは少ないかも。公開できるものは公開していきます。</p>
-<p>いまだ使い方よくわからん...。</p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YukiSku&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YukiSku&theme=transparent)
